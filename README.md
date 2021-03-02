@@ -1,3 +1,3 @@
 # homework_04_ALF
 
-[Screenshot] (
+[Screenshot] (./homework_04_ALF/ScreenShotQUIZ.png)
