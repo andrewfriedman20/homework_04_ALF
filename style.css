@@ -1,0 +1,52 @@
+html, body {
+    background-color: rgb(240, 239, 239);
+    font-family: 'Times New Roman', 'Arial Bold', Arial, sans-serif;
+}
+
+h1 {
+    color:  rgb(24, 40, 179);
+    text-decoration: underline;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif, 'Arial Bold', sans-serif;
+}
+
+h2, h5, a, span {
+    color: rgb(153, 0, 0);
+}
+
+
+.p-2 {
+    font-size: 25px; 
+     font-family: 'Times New Roman', Times, serif, 'Arial Bold', sans-serif;
+}
+
+#score-list {
+    font-size: 22px;
+    color: rgb(0, 0, 0);   
+    }
+
+
+ol {
+    list-style: none;
+    counter-reset: li;
+}
+
+li {
+    counter-increment: li;
+}
+
+li::before {
+    content: "." counter(li);
+    color: rgb(43, 43, 122);
+    display: inline-block;
+    width: 16px;
+    margin-left: -24px;
+    margin-right: 10px;
+    text-align: right;
+    direction: rtl;
+}
+
+#scoresTitle {
+    padding-left: 16px;
+}
