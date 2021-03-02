@@ -1,3 +1,3 @@
 # homework_04_ALF
 
-[Screenshot] (./homework_04_ALF/ScreenShotQUIZ.png)
+[Screenshot] (https://github.com/andrewfriedman20/homework_04_ALF/blob/main/ScreenShotQUIZ.png)
