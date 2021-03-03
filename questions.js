@@ -8,7 +8,7 @@ var questions = [
     {
         title: "What role does Ron Klain hold in the administration?",
         choices: ["POTUS' Personal Aide", "White House Chief of Staff", "National Security Advisor", "Chief Usher"],
-        answer: "WH Chief of Staff"
+        answer: "White House Chief of Staff"
     },
 
     {
