@@ -19,7 +19,7 @@ var questions = [
 
     {
         title: "Who is the chief medical advisor to President Biden?",
-        choices: ["Scott Atlas", "Rudy Guiliani", "Ronnie Jackson", "Anthony Fauci"],
+        choices: ["Scott Atlas", "Rudy Guiliani", "Ronny Jackson", "Anthony Fauci"],
         answer: "Anthony Fauci"
     },
 
@@ -30,7 +30,7 @@ var questions = [
     },
 
     {
-        title: "Once the chief spokesperson for the Biden campaign, what role does Simone Sanders hold now?",
+        title: "Once the chief spokesperson for the Biden campaign, what role does Symone Sanders hold now?",
         choices: ["Deputy Chief of Staff", "Press Secretary for Vice President Harris", "Spokesperson for the First Lady", "Head of the US Secret Service"],
         answer: "Press Secretary for Vice President Harris"
     },
