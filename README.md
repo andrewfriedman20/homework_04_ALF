@@ -11,7 +11,7 @@ A glitch about which I am both aware and intent on remedying when I have a momen
 No one should ever leave a quiz OWING points. These problems will be fixed.
 
 Technologies Used:
-
+Multiple JavaScript files to operate the quiz. Resets, Quiz Questions, scoring and high-scores. HTML5 and CSS, of course.
 
 <p>
   <img src="https://github.com/andrewfriedman20/homework_04_ALF/blob/main/ScreenShotQUIZ.png"/>
